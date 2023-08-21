@@ -1,2 +1,2 @@
 Primeira linha di projeto, no repositório local (Escrito pelo usuário Adriano)
-git add --all
+Segunda linha do projeto, após criação do repositório remoto.
